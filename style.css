@@ -164,7 +164,7 @@ span{
     bottom: 25px;
     width: 80%;
     margin-bottom: 25px;
-    /* position: relative; */
+    
 }
 
 .hero-mssg a{
@@ -181,7 +181,7 @@ span{
 }
 
 .box{
-    /* border: 2px solid black; */
+    
     height: 400px;
     width: 23%;
     background-color: white;
@@ -265,9 +265,6 @@ ul a{
     height: 80px;
     font-size: 0.7rem;
     text-align: center;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .pages{
